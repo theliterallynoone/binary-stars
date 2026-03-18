@@ -18,3 +18,36 @@ Step 3: Replace “downward gravity” with “toward a point”
 Instead of pulling down, we pull toward a point (like a star).
 Let’s say the star is at (0,0)
 Now it curves → orbit-ish behavior 
+
+how do i make both points pull each other?
+Core idea (super simple)
+Earlier you had:
+1 moving object
+1 fixed point (center)
+Now:
+👉 BOTH are moving
+👉 BOTH pull each other
+🧩 Step 1: Two positions, two velocities
+which means that we'll now have two sets
+Step 2: Distance between them
+This part is SAME logic as before
+Step 3: Direction of force
+This gives direction from star1 → star2
+Step 4: Apply force BOTH ways
+Here’s the key 
+👉 Star 1 is pulled toward Star 2
+👉 Star 2 is pulled toward Star 1
+So accelerations are opposite
+also notice the minus sign = opposite direction
+Step 5: Update velocities
+Step 6: Update positions
+Step 7: put it all together-
+👉 Two objects
+👉 Mutually attracting
+👉 Orbiting each other
+
+Mini intuition trick
+Think of it like:
+invisible spring pulling them together
+but sideways velocity keeps them from crashing
+Boom → orbit
