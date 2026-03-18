@@ -51,3 +51,6 @@ Think of it like:
 invisible spring pulling them together
 but sideways velocity keeps them from crashing
 Boom → orbit
+
+and now i animate it
+YAY, I DID IT (SIMPLE ORBITS THO)
