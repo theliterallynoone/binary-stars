@@ -54,3 +54,16 @@ Boom → orbit
 
 and now i animate it
 YAY, I DID IT (SIMPLE ORBITS THO)
+
+okay cool so i have now added-
+Visual glow: colored stars, glowing trails, starry background
+Real physics upgrade: unequal masses → asymmetric orbit (WAY more realistic)
+Supernova moment: collision detection, explosion effect, stars turn bright white
+Inspiral effect-
+slow energy loss → spiral → BOOM
+
+okay so update- what i’ve built right now is basically a springy chaos system, not a clean orbital system (yet)
+ive accidentally built atoms or smthn revolving each other and themselves in orbit
+wait i think its the physics-
+
+next up- them merging in a black hole
